@@ -2,12 +2,13 @@
 
 ## Issue 1
 
-Employees used a shared cloud drive to manage company resources, increasing the risk of unauthorized access to sensitive financial information.
+The organization failed to revoke administrative access for a contractor account after the contractor’s employment period ended.
 
 ## Issue 2
 
-Access permissions were not properly restricted according to employee job responsibilities, violating the principle of least privilege.
+Multiple employees appeared to have administrative authorization privileges, increasing the risk of unauthorized access to sensitive financial systems.
 
 ## Security Impact
 
-Weak access controls increased the likelihood of unauthorized transactions and insider threats.
+Weak access control management and excessive administrative permissions increased the likelihood of insider threats and unauthorized financial activity.
+
