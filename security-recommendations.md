@@ -2,16 +2,16 @@
 
 ## Recommendation 1
 
-Implement role-based access control (RBAC) so employees can only access files and systems necessary for their job responsibilities.
+Implement strict access revocation procedures to immediately disable employee and contractor accounts after termination or contract completion.
 
 ## Recommendation 2
 
-Develop procedures to immediately revoke access permissions when employees leave the organization or change job roles.
+Apply the principle of least privilege so employees only receive the minimum permissions required for their job responsibilities.
 
 ## Additional Recommendation
 
-Enable access logging and continuous monitoring to detect suspicious account activity more quickly.
+Regularly audit administrative accounts and monitor payroll-related activity for suspicious behavior.
 
 ## Security Benefit
 
-These mitigations reduce unauthorized access risks and strengthen protection of sensitive financial information.
+These mitigations reduce the risk of unauthorized financial transactions and strengthen the organization’s identity and access management practices.
